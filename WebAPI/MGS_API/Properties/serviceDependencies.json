@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "connectionId": "ConnectionStrings:Data Source=ABDUL-DESKTOP;Initial Catalog=MGS_Dev;Integrated Security=True;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False",
+      "type": "mssql"
+    }
+  }
+}
